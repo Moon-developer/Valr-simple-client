@@ -35,3 +35,23 @@ Example Usage, See `example.py` file:
 ```shell
 $ python3 example.py
 ```
+
+## Installing Package
+
+To use this as a package in your project simply run:
+
+```shell
+$ pip install valr-simple-client
+```
+
+Then import:
+
+```python
+from valr import Valr
+
+# Initiate a client
+valr_client = Valr(key='YOUR_VALR_KEY', secret='YOUR_VALR_SECRET')
+
+# Access the endpoint your want to use.
+valr_client.public.server_time()
+```
