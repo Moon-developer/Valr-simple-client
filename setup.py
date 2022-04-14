@@ -6,7 +6,7 @@ with open('README.md') as file:
 
 setup(
     name='valr-simple-client',
-    version='0.0.1',
+    version='0.0.2',
     description='VALR API Client',
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -14,7 +14,9 @@ setup(
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
         'Operating System :: POSIX :: Linux',
         'Topic :: Software Development',
     ],

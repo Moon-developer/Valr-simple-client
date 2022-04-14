@@ -1,9 +1,10 @@
 # VALR Simple Python Client
 
-| Python | 3.9, 3.10 |
-|--------|-----------|
-
-A Simple Python Library to integrate with [VALR API]("https://docs.valr.com").
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/valr-simple-client)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/valr-simple-client)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Moon-developer/Valr-simple-client?label=version)  
+![PyPI - Status](https://img.shields.io/pypi/status/valr-simple-client)  
+A Simple Python Library to integrate with [VALR API](https://docs.valr.com).
 
 ## Cloning source
 
