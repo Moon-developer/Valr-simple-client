@@ -55,3 +55,4 @@ valr_client = Valr(key='YOUR_VALR_KEY', secret='YOUR_VALR_SECRET')
 # Access the endpoint your want to use.
 valr_client.public.server_time()
 ```
+
